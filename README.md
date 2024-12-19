@@ -84,9 +84,6 @@ This project is a web-based **Real Estate Scouting Tool** that leverages **Brigh
    ```
 5. Submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 For any inquiries, please contact:
 - **Name**: Krish Lakhani
