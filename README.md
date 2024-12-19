@@ -56,16 +56,9 @@ This project is a web-based **Real Estate Scouting Tool** that leverages **Brigh
 2. View the results displayed on the interactive map.
 3. Click on map markers for detailed information about properties.
 
-## Screenshots
-
-### Homepage
-![Homepage](https://via.placeholder.com/800x400.png?text=Homepage+Screenshot)
-
+## Screenshot
 ### Map View
 ![Map View](https://via.placeholder.com/800x400.png?text=Map+View+Screenshot)
-
-### Data Table
-![Data Table](https://via.placeholder.com/800x400.png?text=Data+Table+Screenshot)
 
 ## Technologies Used
 
