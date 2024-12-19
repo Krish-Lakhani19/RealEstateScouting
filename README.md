@@ -2,6 +2,8 @@
 
 This project is a web-based **Real Estate Scouting Tool** that leverages **Bright Data's Web Scraper API** to gather and analyze real estate data. The application features a robust backend powered by **Python** and **Flask**, a dynamic frontend built with **HTML**, **CSS**, and **JavaScript**, and advanced data processing and visualization using **Folium**, **NumPy**, and **Pandas**.
 
+![DALL·E 2024-12-19 16 59 46 - An elegant user interface of a real estate scouting tool showing a map-based visualization with interactive property markers  The map includes colorfu](https://github.com/user-attachments/assets/04c99e45-3d4e-48bf-8298-b996909d688c)
+
 ## Features
 
 1. **Web Scraping**:
@@ -58,7 +60,13 @@ This project is a web-based **Real Estate Scouting Tool** that leverages **Brigh
 
 ## Screenshot
 ### Map View
-![Map View](https://via.placeholder.com/800x400.png?text=Map+View+Screenshot)
+![Map View]
+<img width="1440" alt="Screenshot 2024-12-19 at 5 10 45 PM" src="https://github.com/user-attachments/assets/15026440-b9cb-4ca8-98db-bd2b76d2d798" />
+<img width="1440" alt="Screenshot 2024-12-19 at 5 10 57 PM" src="https://github.com/user-attachments/assets/60dbdc99-1dfe-4205-9a9b-b3db693df8d1" />
+<img width="1440" alt="Screenshot 2024-12-19 at 5 11 05 PM" src="https://github.com/user-attachments/assets/2e51a9cd-a4ef-426d-ae5d-820a593e380a" />
+<img width="1440" alt="Screenshot 2024-12-19 at 5 11 26 PM" src="https://github.com/user-attachments/assets/fc6aa116-59ee-4622-b5e5-7b4a0f3e3af0" />
+
+
 
 ## Technologies Used
 
