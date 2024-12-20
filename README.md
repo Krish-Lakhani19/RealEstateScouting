@@ -95,7 +95,7 @@ This project is a web-based **Real Estate Scouting Tool** that leverages **Brigh
 ## Contact
 For any inquiries, please contact:
 - **Name**: Krish Lakhani
-- **Email**: [your-email@example.com](mailto:krishlakhani46767@gmail.com)
+- **Email**: [krishlakhani46767@gmail.com](mailto:krishlakhani46767@gmail.com)
 - **GitHub**: [Krish-Lakhani19](https://github.com/Krish-Lakhani19)
 
 ---
